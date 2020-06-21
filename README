@@ -1,3 +1,8 @@
+Why we have forked that project ?
+=================================
+
+We have forked that project to understand how it works. Then we'll write the same from scratch.
+
 This is jabber.el 0.8.92, an XMPP client for Emacs.  XMPP (also
 known as 'Jabber') is an instant messaging system; see
 http://xmpp.org for more information.
